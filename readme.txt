@@ -8,3 +8,4 @@ Creating a new branch is quick
 Creating a new branch myself haha
 Creating a new branch is quick AND simple.
 not fast forward
+check this is missing?

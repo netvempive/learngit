@@ -10,3 +10,4 @@ Creating a new branch is quick AND simple.
 not fast forward
 check this is missing?
 fix bug 101
+由其他人修改

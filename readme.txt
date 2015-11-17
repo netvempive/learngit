@@ -11,3 +11,4 @@ not fast forward
 check this is missing?
 fix bug 101
 chg by my self
+由其他人修改
